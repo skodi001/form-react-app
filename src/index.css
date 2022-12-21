@@ -79,7 +79,7 @@ button:active {
   border-color: #33059e;
 }
 
-.button:disabled,
+button:disabled,
 button:disabled:hover,
 button:disabled:active {
   background-color: #ccc;
